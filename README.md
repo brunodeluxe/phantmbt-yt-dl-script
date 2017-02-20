@@ -1,8 +1,8 @@
 # phantmbt-yt-dl-script
 PLAYLIST CONVERTER                                    
 # 
-batched by twitch.tv/brunodeluxe <br>
-basend on youtube-dl Project<br>
+batched by twitch.tv/brunodeluxe <br><br>
+based on youtube-dl Project<br>
 Copyright by Ricardo Garcia Gonzalez<br>
 https://github.com/rg3<br>
 
