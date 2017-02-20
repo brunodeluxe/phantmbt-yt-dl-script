@@ -1,13 +1,10 @@
 # phantmbt-yt-dl-script
-######      PLAYLIST CONVERTER    ######
-#                                      #
-#                                      #
-#   batched by twitch.tv/brunodeluxe   #
-#                                      #
-#     basend on youtube-dl Project     #
-# Copyright by Ricardo Garcia Gonzalez #
-#        https://github.com/rg3        #
-########################################
+PLAYLIST CONVERTER                                    
+# 
+batched by twitch.tv/brunodeluxe
+basend on youtube-dl Project
+Copyright by Ricardo Garcia Gonzalez
+https://github.com/rg3
 
 Quite a simple Batch-Script for youtube-dl.exe 
 to easy create Phantombot Playlistfiles.
