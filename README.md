@@ -2,18 +2,18 @@
 PLAYLIST CONVERTER                                    
 # 
 batched by twitch.tv/brunodeluxe <br>
-basend on youtube-dl Project
-Copyright by Ricardo Garcia Gonzalez
-https://github.com/rg3
+basend on youtube-dl Project<br>
+Copyright by Ricardo Garcia Gonzalez<br>
+https://github.com/rg3<br>
 
-Quite a simple Batch-Script for youtube-dl.exe 
-to easy create Phantombot Playlistfiles.
+Quite a simple Batch-Script for youtube-dl.exe<br> 
+to easy create Phantombot Playlistfiles.<br>
 
-You need to download the youtube-dl.exe first 
-and place it into the same folder!
+You need to download the youtube-dl.exe first<br>
+and place it into the same folder!<br>
 
-For Phantombot-User i recommend to place the
-files into /addons/youtubeplayer and create
-a shortcut on your desktop.
+For Phantombot-User i recommend to place the<br>
+files into /addons/youtubeplayer and create<br>
+a shortcut on your desktop.<br>
 
-Tested on Windows 10 Pro 
+Tested on Windows 10 Pro <br>
