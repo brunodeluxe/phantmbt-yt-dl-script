@@ -5,7 +5,7 @@ echo #                                      #
 echo #                                      #
 echo #   batched by twitch.tv/brunodeluxe   #
 echo #                                      #
-echo #     basend on youtube-dl Project     #
+echo #     based on youtube-dl Project     #
 echo # Copyright by Ricardo Garcia Gonzalez #
 echo #                                      #
 echo ########################################
